@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="tv_major">Prodi Teknik Informatika</string>
+    <string name="edt_student_name">Nama Mahasiswa</string>
+    <string name="edt_student_task_value">Nilai Tugas</string>
+    <string name="edt_student_attendance_value">Nilai Kehadiran</string>
+    <string name="edt_student_mid_value">Nilai UTS</string>
+    <string name="edt_student_final_value">Nilai UAS</string>
+    <string name="btn_count">Hitung</string>
+    <string name="edt_total_value">Nilai Angka</string>
+    <string name="edt_word_value">Nilai Huruf</string>
+    <string name="btn_value">Nilai Mahasiswa</string>
+    <string name="btn_hint">Petunjuk</string>
+    <string name="btn_about">Tentang Aplikasi</string>
+    <string name="btn_exit">Exit</string>
+</resources>
